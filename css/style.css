@@ -4392,6 +4392,7 @@ padding: 6px 10px;
   margin: 15px;
   background-color: white;
   padding-bottom: 15px;
+  overflow: hidden;
 }
 .row-invest-title {
   background-color: green;
@@ -4420,6 +4421,7 @@ padding: 6px 10px;
 
 .my-slider {
   margin-top: 10px;
+  padding: 0 20px;
 }
 .my-slider .slider.slider-horizontal {
   width:100%;
@@ -4436,4 +4438,10 @@ padding: 6px 10px;
 .restore-links {
 	margin-top: 40px;
     text-align: center;
+}
+
+
+.replenish-balance {
+  font-weight: bold;
+  font-size: 14px;
 }
