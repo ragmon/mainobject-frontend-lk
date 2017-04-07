@@ -4422,6 +4422,7 @@ padding: 6px 10px;
 .my-slider {
   margin-top: 10px;
   padding: 0 20px;
+  margin-bottom: 15px;
 }
 .my-slider .slider.slider-horizontal {
   width:100%;
