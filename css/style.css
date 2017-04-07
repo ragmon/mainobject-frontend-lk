@@ -4426,13 +4426,14 @@ padding: 6px 10px;
 .my-slider .slider.slider-horizontal {
   width:100%;
 }
-.my-slider-val-label {
-  padding-bottom: 15px;
-  display: block;
-  color: green;
-  font-weight:bold;
-  font-size: 16px;
+.my-slider-form-group {
+  margin-bottom: 20px;
 }
+.my-slider-form-group-label {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
 
 
 .restore-links {
