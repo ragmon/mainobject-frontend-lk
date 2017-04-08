@@ -4419,6 +4419,14 @@ padding: 6px 10px;
   text-align: justify;
 }
 
+.investment-percent-sum {
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+  color: green;
+  font-size: 16px;
+}
+
 .my-slider {
   margin-top: 10px;
   padding: 0 20px;
